@@ -8,7 +8,7 @@
 - 💻 Self-taught **Python**, **C++**, and **DSA** enthusiast  
 - 🤖 Exploring **AI/ML**, with a focus on sentiment analysis and cool ML projects  
 - 🎯 Goal: Secure a research internship in **AI/ML** and grow as a problem solver  
-- ✍️ Writing blogs on [DEV.to](https://dev.to/swastika_bhattacharjee_aa)  
+- ✍️ Writing blogs on [DEV.to](https://dev.to/swastika_bhattacharjee_aa) and https://medium.com/@bhattacharjeeswastika15
 
 ---
 
